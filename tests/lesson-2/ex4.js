@@ -1,4 +1,3 @@
-
 // Khai bao chieu cao cua ban
 let chieuCao = 150;
 let soLeChieuCao = chieuCao % 100;
