@@ -1,4 +1,3 @@
-
 // Khai bao 1 hang so voi gia tri kieu Number bat ky
 const number = 5;
 
