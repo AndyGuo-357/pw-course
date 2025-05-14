@@ -1,5 +1,3 @@
-
-
 // In ra cac so chan va so le tu 1 den 100
 for (let i = 1; i <= 100; i++) {
     if (i % 2 === 0) {
