@@ -1,4 +1,3 @@
-
 // Khai bao 1 hang so number voi gia tri la 12
 const number = 12;
 
